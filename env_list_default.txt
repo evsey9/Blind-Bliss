@@ -1,0 +1,2 @@
+tg_bot_token=TG_BOT_TOKEN_HERE
+openai_token=OPENAI_API_TOKEN_HERE
